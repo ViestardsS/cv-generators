@@ -19,10 +19,10 @@ Projekts sastāv no trim galvenajām daļām:
 ### Failu struktūra
 cv-generators/
 |
-|-- index.html      # Galvenā HTML lapa
-|-- style.css       # Dizains, layout, tēmas, print stili
-|-- index.js        # Funkcionalitāte (CV ģenerēšana, validācija, tēmas maiņa)
-|-- README.md       # Projekta dokumentācija
+|-- index.html \n
+|-- style.css \n
+|-- index.js  \n
+|-- README.md \n
 
 
 ### Galvenā funkcionalitāte
