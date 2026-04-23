@@ -172,19 +172,4 @@
         if (!document.getElementById('cv').innerText.trim()) generateCV();
         window.print();
       };
-
-      // initial load
-    //   window.addEventListener('DOMContentLoaded', () => {
-    //     if (!document.getElementById('name').value) {
-    //       document.getElementById('name').value = 'Morgan Hayes';
-    //       document.getElementById('title').value = 'Senior UX Engineer';
-    //       document.getElementById('email').value = 'morgan@heyday.design';
-    //       document.getElementById('phone').value = '+371 1234567';
-    //       document.getElementById('summary').value = '• UX engineer bridging design and code.\n• 8+ years building scalable design systems.';
-    //       document.getElementById('experience').value = '• Staff UX Engineer — Vercel, 2022–present\n• Senior Designer — Figma, 2018–2022';
-    //       document.getElementById('education').value = '• M.S. HCI, Carnegie Mellon\n• B.F.A. Graphic Design, SVA';
-    //       document.getElementById('skills').value = '• React • Design Tokens • Storybook • Figma • UX Research • Tailwind';
-    //     }
-    //     generateCV();
-    //   });
     })();
