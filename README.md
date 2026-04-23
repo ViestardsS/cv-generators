@@ -1,24 +1,24 @@
 # cv-generators
-Šis rīks ir vienkāršs un moderns CV ģenerators, kas ļauj lietotājam ātri izveidot vizuāli pievilcīgu CV un eksportēt to drukāšanai vai PDF formātā.
+Šis rīks ir vienkāršs un moderns CV ģenerators, kas ļauj lietotājam ātri izveidot vizuāli pievilcīgu CV un eksportēt to drukāšanai vai PDF formātā.   
 
 
 ### Projekta apraksts
-CV Generator ir front-end tīmekļa lietotne, kas darbojas pārlūkprogrammā bez servera puses loģikas. 
-Lietotājs ievada savus datus formā, un CV tiek ģenerēts vizuāli savā attiecīgajā logā.
+CV Generator ir front-end tīmekļa lietotne, kas darbojas pārlūkprogrammā bez servera puses loģikas.   
+Lietotājs ievada savus datus formā, un CV tiek ģenerēts vizuāli savā attiecīgajā logā.   
 
 
 ### Arhitektūra
 Projekts sastāv no trim galvenajām daļām:
 
-**HTML**
-**CSS**
-**JavaScript**
-**Bootstrap**
+**HTML**  
+**CSS**  
+**JavaScript**  
+**Bootstrap**  
 
 
 ### Failu struktūra
-cv-generators/
-|
+cv-generators/  
+|  
 |-- index.html   
 |-- style.css   
 |-- index.js    
@@ -55,6 +55,6 @@ cv-generators/
 
 
 ## Autori
-Viestards Staškevičs
-Artjoms Čereuho
-P23-1
+Viestards Staškevičs  
+Artjoms Čereuho  
+P23-1  
