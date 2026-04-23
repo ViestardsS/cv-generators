@@ -1,6 +1,3 @@
-# Github repo
-https://github.com/ViestardsS/cv-generators
-
 # cv-generators
 Šis rīks ir vienkāršs un moderns CV ģenerators, kas ļauj lietotājam ātri izveidot vizuāli pievilcīgu CV un eksportēt to drukāšanai vai PDF formātā.   
 
